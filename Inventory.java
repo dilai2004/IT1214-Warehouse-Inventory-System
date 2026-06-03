@@ -1,3 +1,4 @@
+//manage items in stock by adding, removing, updating, searching, and displaying inventory records 
 
 import java.util.ArrayList;
 
