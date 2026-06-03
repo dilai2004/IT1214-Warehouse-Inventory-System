@@ -1,3 +1,5 @@
+//provides a menu-driven interface to manage inventory operations such as adding, removing, updating, searching, and displaying items.
+
 import java.util.Scanner;
 
 public class Warehouse {

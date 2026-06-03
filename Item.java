@@ -1,3 +1,5 @@
+//represents a product with its ID, name, quantity, and price details
+
 public class Item {
     private String itemId;
     private String itemName;
